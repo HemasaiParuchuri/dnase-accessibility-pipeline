@@ -1,0 +1,19 @@
+# Genomics / data files
+*.bed
+*.fa
+*.fasta
+*.txt
+
+# Output folders
+outputs/
+data/
+
+# Temporary files
+temp_sequences.fasta
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
